@@ -1,1 +1,1 @@
-print("yaeran")
+print("yaeran.")
